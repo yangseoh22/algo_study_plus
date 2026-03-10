@@ -9,4 +9,4 @@
 
 #### 3/10 (화) - 최소신장트리
 - [Boj.9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
-- [SWEA.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
+- [Boj.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
