@@ -18,3 +18,6 @@
 
 #### 3/12 (목) - 최단경로(Dijkstra)
 - [Boj.18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
+
+#### 3/13 (금) - 최단경로(Dijkstra)
+- [Boj.9370 - 미확인 도착지](https://www.acmicpc.net/problem/9370)
