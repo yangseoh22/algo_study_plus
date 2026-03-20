@@ -45,4 +45,5 @@
 #### 3/19 (목) - A형 준비
 - [Boj.2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
 
-#### 3/20 (금) - 
+#### 3/20 (금) - A형 준비
+- [Boj.14567 - 선수 과목](https://www.acmicpc.net/problem/14567)
