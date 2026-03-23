@@ -54,8 +54,8 @@
 <details>
   <summary><h3> 3월 4주차 (3/23 ~ 3/29) </h3></summary> 
 
-#### 3/23 (월) - 
-- 
+#### 3/23 (월) - 백트래킹 심화
+- [BOJ.2580 - 스도쿠](https://www.acmicpc.net/problem/2580)
 
 #### 3/24 (화) - 
 - 
